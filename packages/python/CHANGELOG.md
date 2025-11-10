@@ -1,5 +1,15 @@
 # @vercel/python
 
+## 6.0.3
+
+### Patch Changes
+
+- [python] avoid installing dev dependencies ([#14232](https://github.com/vercel/vercel/pull/14232))
+
+- [python] swaps custom http server handler for asgi apps with uvicorn ([#14192](https://github.com/vercel/vercel/pull/14192))
+
+- Exclude JS package manager lock files ([#14233](https://github.com/vercel/vercel/pull/14233))
+
 ## 6.0.2
 
 ### Patch Changes
